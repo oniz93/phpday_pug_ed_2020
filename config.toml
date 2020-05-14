@@ -80,7 +80,7 @@ abstract = "Dopo aver finalmente trovato posto e data per il primo incontro da f
 [[params.pug]]
 icon = "images/grusp/pug-roma.png"
 title = "PUG Roma"
-abstract = "Il PUG Roma nasce nel lontano luglio 2010 come costola locale del GrUSP, il Gruppo Utenti e Sviluppatori PHP Italiani. Ci incontriamo ogni ultimo martedì del mese e spesso parliamo di tecniche di programmazione, di metodologie di sviluppo e di design pattern. Ovviamente parliamo anche di linguaggi e spesso di PHP, ma non ci poniamo limiti in questo senso."
+abstract = "Il PUG Roma nasce nel lontano luglio 2010 come costola locale del GrUSP. Ci incontriamo ogni ultimo martedì del mese e spesso parliamo di tecniche di programmazione, metodologie di sviluppo e di design pattern. Ovviamente parliamo anche di linguaggi e spesso di PHP, ma non ci poniamo limiti in questo senso. Per chi fosse interessato può trovarci su <a href='https://roma.grusp.org' target='_blank'>roma.grusp.org</a>."
 
 [[params.pug]]
 icon = "images/grusp/pug-romagna.png"
